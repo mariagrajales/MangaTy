@@ -4,7 +4,7 @@ import retrofit2.Retrofit
 import retrofit2.converter.gson.GsonConverterFactory
 
 object RetrofitClient {
-    // 10.0.2.2 es la dirección especial para que el emulador vea a tu PC
+
     private const val BASE_URL = "http://192.168.1.208:3000/"
 
     val instance: ApiService by lazy {
