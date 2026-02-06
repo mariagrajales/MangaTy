@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1020153821792",
+    "project_id": "mangaapp-f218d",
+    "storage_bucket": "mangaapp-f218d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1020153821792:android:40636d65411e68d76f6105",
+        "android_client_info": {
+          "package_name": "com.example.manga"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0Ne8FJsXW_1XXRzQEjeETxlXaJBbS7jY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
