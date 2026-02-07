@@ -1,4 +1,4 @@
-package com.example.manga.ui.theme
+package com.example.features.manga.ui.theme
 
 import androidx.compose.material3.Typography
 import androidx.compose.ui.text.TextStyle

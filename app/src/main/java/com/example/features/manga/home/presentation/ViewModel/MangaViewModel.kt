@@ -1,4 +1,4 @@
-package com.example.manga.presentation.ViewModel
+package com.example.features.manga.home.presentation.ViewModel
 
 import androidx.compose.runtime.mutableStateListOf
 import androidx.lifecycle.ViewModel

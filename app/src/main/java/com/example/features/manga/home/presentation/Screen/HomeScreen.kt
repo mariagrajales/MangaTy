@@ -1,4 +1,4 @@
-package com.example.manga.presentation.Screen
+package com.example.features.manga.home.presentation.Screen
 
 import androidx.compose.foundation.clickable
 import androidx.compose.foundation.layout.*
@@ -15,8 +15,8 @@ import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.unit.dp
 import androidx.lifecycle.viewmodel.compose.viewModel
 import androidx.navigation.NavController
-import com.example.manga.presentation.ViewModel.AuthViewModel
-import com.example.manga.presentation.ViewModel.MangaViewModel
+import com.example.features.manga.home.presentation.ViewModel.AuthViewModel
+import com.example.features.manga.home.presentation.ViewModel.MangaViewModel
 
 @Composable
 fun HomeScreen(

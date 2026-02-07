@@ -1,4 +1,4 @@
-package com.example.manga
+package com.example.features.manga
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
@@ -9,11 +9,11 @@ import androidx.compose.material3.Surface
 import androidx.navigation.compose.NavHost
 import androidx.navigation.compose.composable
 import androidx.navigation.compose.rememberNavController
-import com.example.manga.presentation.Screen.HomeScreen
-import com.example.manga.presentation.Screen.LoginScreen
-import com.example.manga.presentation.Screen.RegistroScreen
-import com.example.manga.presentation.ViewModel.AuthViewModel
-import com.example.manga.ui.theme.MangaTheme
+import com.example.features.manga.home.presentation.Screen.HomeScreen
+import com.example.features.manga.auth.LoginScreen
+import com.example.features.manga.home.presentation.Screen.RegistroScreen
+import com.example.features.manga.home.presentation.ViewModel.AuthViewModel
+import com.example.features.manga.ui.theme.MangaTheme
 
 class MainActivity : ComponentActivity() {
 

@@ -1,4 +1,4 @@
-package com.example.manga.presentation.Screen
+package com.example.features.manga.auth
 
 import androidx.compose.foundation.layout.*
 import androidx.compose.material3.*
@@ -10,7 +10,7 @@ import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.text.input.PasswordVisualTransformation
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
-import com.example.manga.presentation.ViewModel.AuthViewModel
+import com.example.features.manga.home.presentation.ViewModel.AuthViewModel
 
 @Composable
 fun LoginScreen(

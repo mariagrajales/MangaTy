@@ -1,4 +1,4 @@
-package com.example.manga.model
+package com.example.features.manga.model
 
 data class Manga(
     val id: String = "",

@@ -1,4 +1,4 @@
-package com.example.manga.presentation.ViewModel
+package com.example.features.manga.home.presentation.ViewModel
 
 import android.content.Context
 import android.widget.Toast

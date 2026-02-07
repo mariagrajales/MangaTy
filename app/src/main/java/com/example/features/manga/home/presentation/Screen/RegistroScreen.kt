@@ -1,4 +1,4 @@
-package com.example.manga.presentation.Screen
+package com.example.features.manga.home.presentation.Screen
 
 import androidx.compose.foundation.layout.*
 import androidx.compose.material3.*
@@ -8,7 +8,7 @@ import androidx.compose.ui.Modifier
 import androidx.compose.ui.platform.LocalContext
 import androidx.compose.ui.text.input.PasswordVisualTransformation
 import androidx.compose.ui.unit.dp
-import com.example.manga.presentation.ViewModel.AuthViewModel
+import com.example.features.manga.home.presentation.ViewModel.AuthViewModel
 
 @Composable
 fun RegistroScreen(

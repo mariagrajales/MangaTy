@@ -1,4 +1,4 @@
-package com.example.manga.ui.theme
+package com.example.features.manga.ui.theme
 
 import androidx.compose.ui.graphics.Color
 
